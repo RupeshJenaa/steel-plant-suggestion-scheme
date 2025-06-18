@@ -28,11 +28,10 @@ Stores the suggestions from the employees.
 
 ## 🚀 How to Run
 
-1. Start XAMPP and ensure MySQL is running.
+1. Start XAMPP and ensure MySQL and Apache is running.
 2. Import both `employee_db.sql` and `suggestion_db.sql` into MySQL.
 3. Configure database credentials in `application.properties`.
-4. Run the Spring Boot application.
-5. Open the `index.html` login page and test the system.
+4. Open the `index.html` login page and test the system.
 
 ## 👤 Author
 
